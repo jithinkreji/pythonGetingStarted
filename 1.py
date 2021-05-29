@@ -4,4 +4,3 @@ print(x)
 print(type(x))
 a = x/9
 print(a)
-print("Ended!!!")
